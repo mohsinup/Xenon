@@ -1,3 +1,17 @@
+Task 1 and 2 are in same folder.
+internsctl is second task
+
+.
+.
+.
+.
+.
+.
+.
+
+
+
+
 FOR USER INFO,ETC.
 
 Create a user: ./internsctl user create <username>
